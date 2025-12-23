@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="libgraphics">
+      <UniqueIdentifier>{9897cba2-cd4f-4369-a110-00facf31cb83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="simpleGUI">
+      <UniqueIdentifier>{534b16d7-8e3f-4a29-b378-12b81e5cf205}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Note.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\NoteManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\boolean.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\exception.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\extgraph.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\gcalloc.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\genlib.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\graphics.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\linkedlist.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\random.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\simpio.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libgraphics\strlib.h">
+      <Filter>libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="source\simpleGUI\imgui.h">
+      <Filter>simpleGUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Note.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="source\NoteManager.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libgraphics\exceptio.c">
+      <Filter>libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libgraphics\genlib.c">
+      <Filter>libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libgraphics\graphics.c">
+      <Filter>libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libgraphics\linkedlist.c">
+      <Filter>libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libgraphics\random.c">
+      <Filter>libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libgraphics\simpio.c">
+      <Filter>libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libgraphics\strlib.c">
+      <Filter>libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="source\simpleGUI\imgui.c">
+      <Filter>simpleGUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

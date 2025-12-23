@@ -1,0 +1,39 @@
+﻿  main.c
+H:\src\NoteManagementSystem\source\main.c(35,12): warning C4090: “初始化”: 不同的“const”限定符
+H:\src\NoteManagementSystem\source\main.c(39,19): warning C4101: “size”: 未引用的局部变量
+H:\src\NoteManagementSystem\source\main.c(62,12): warning C4090: “初始化”: 不同的“const”限定符
+H:\src\NoteManagementSystem\source\main.c(65,19): warning C4101: “size”: 未引用的局部变量
+H:\src\NoteManagementSystem\source\main.c(344,13): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(346,13): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(348,13): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(350,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(358,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(363,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(370,13): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(372,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(391,13): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(393,13): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(395,13): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(396,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(404,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(412,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(417,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(423,13): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(425,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(441,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(445,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(449,16): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(462,17): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(463,20): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(471,21): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(480,21): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(481,24): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(488,25): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(498,21): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(499,24): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(508,25): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(519,15): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(520,15): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(527,25): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+H:\src\NoteManagementSystem\source\main.c(571,38): warning C4311: “类型强制转换”: 从“char (*)[42]”到“long”的指针截断
+  NoteManagementSystem.vcxproj -> H:\src\NoteManagementSystem\x64\Debug\NoteManagementSystem.exe
